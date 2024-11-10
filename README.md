@@ -1,0 +1,2 @@
+# Website-of-the-Library-of-the-Holy-Mosque-of-Mecca
+A proposed website to serve as a digital gateway to the Makkah Grand Mosque Library, providing access to its extensive collection of manuscripts, books, and historical documents. The platform will facilitate research and interaction, allowing users to explore the library's rich heritage and engage with its resources in a user-friendly environment.
